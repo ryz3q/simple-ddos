@@ -12,4 +12,4 @@
 
 💥rlly strong💥
 # Sometimes it goes up to 1GB
-![taskmanager](https://user-images.githubusercontent.com/113990533/193850010-2d250465-336a-43c4-897d-de85d246a0e9.png)
+![Screenshot 2022-10-22 121358](https://user-images.githubusercontent.com/113990533/197331465-a9593a5e-6c7c-4067-8e44-8d4bd247e52e.jpg)
